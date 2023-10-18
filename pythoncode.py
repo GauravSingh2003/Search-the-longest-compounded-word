@@ -7,21 +7,6 @@ def read_words_from_file(file_name):
 
     return
 
-input_file = 'Input.txt'
-words = read_words_from_file(input_file)
-
-# Step 2: Sort the words in descending order of length
-words.sort(key=len, reverse=True)
-
-import time
-
-# Step 1: Read the input file and store the words
-def read_words_from_file(file_name):
-    with open(file_name, 'r') as file:
-        words = [line.strip() for line in file]
-
-    return
-
 input_file = 'Input_01.txt'
 words = read_words_from_file(input_file)
 
