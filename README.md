@@ -6,4 +6,4 @@
 <br>5.Measure the time taken to process the input file.
 
 <br>You can repeat the above code for the second input file (Input_02.txt) by changing the input_file variable to the corresponding file name.
-<br>Make sure to place the input files in the same directory as the script or provide the full path to the file .
+<br>Make sure to place the input files in the same directory as the script or provide the full path to the file 
